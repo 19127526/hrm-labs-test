@@ -28,3 +28,8 @@ Thumbs.db
 coverage/
 .nyc_output/
 
+# Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
