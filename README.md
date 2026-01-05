@@ -77,6 +77,4 @@ curl -X POST http://localhost:3000/leave   -H "Content-Type: application/json"  
 ``` bash
 curl -X PATCH http://localhost:3000/leave/1/approve
 ```
-#   h r m - l a b s - t e s t 
- 
  
